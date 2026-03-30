@@ -18,3 +18,5 @@ dist/
 .vscode/
 assets_for_dinov3
 dinov3_vits16_pretrain_lvd1689m-08c60483.pth
+dinov3_vitl16_pretrain_lvd1689m-8aa4cbdd.pth
+notebooks/fg_classifier.pkl
